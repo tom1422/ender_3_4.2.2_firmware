@@ -1,57 +1,57 @@
 {
     "builds/autoLevel5x5.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "4be69e5b52aa3d6cb911b94c7c12a9a3",
-        "assetId": 454435112
+        "assetId": 455378699
     },
     "builds/autoLevel5x5Lin.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "dd5898b4c8de024b567618d2bcf3569d",
-        "assetId": 454435119
+        "assetId": 455378708
     },
     "builds/autoLevel7x7.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "2471aad1441fac5cde01bfb18ee27d2b",
-        "assetId": 454435123
+        "assetId": 455378722
     },
     "builds/autoLevel7x7Lin.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "533bcecbb49111cb08d0c298ca25c7c4",
-        "assetId": 454435129
+        "assetId": 455378735
     },
     "builds/base.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "706a7960fb1ddbfd1f2e85da2c9e716c",
-        "assetId": 454435131
+        "assetId": 455378753
     },
     "builds/baseLin.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "26c73153e998d7b901190bdca9b227cf",
-        "assetId": 454435141
+        "assetId": 455378766
     },
     "builds/default.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "513b7222fe059dafb6a296a2d55677fe",
-        "assetId": 454435146
+        "assetId": 455378781
     },
     "builds/manualBedMesh5x5.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "0b2d3cd2ab469c2316413aaf38e87d52",
-        "assetId": 454435151
+        "assetId": 455378794
     },
     "builds/manualBedMesh5x5Lin.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "f0b362e5edd81bfc1ea120c754ecfae9",
-        "assetId": 454435161
+        "assetId": 455378809
     },
     "builds/manualBedMesh7x7.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "b77b3b2eafaad9c58f3b7c56a1c98a9a",
-        "assetId": 454435169
+        "assetId": 455378821
     },
     "builds/manualBedMesh7x7Lin.js": {
-        "version": "2f0b5f04a77dbcf998014c706815b91c40e28579",
+        "version": "c3974eadf2beb4f2f7deef5b8bd7e12d674268fa",
         "md5": "e0038c1b212394cc7552a4b779f55506",
-        "assetId": 454435174
+        "assetId": 455378833
     }
 }
